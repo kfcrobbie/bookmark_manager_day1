@@ -37,6 +37,9 @@ PLATFORMS
 DEPENDENCIES
   capybara
   rspec
+<<<<<<< HEAD
 
 BUNDLED WITH
    1.10.3
+=======
+>>>>>>> f8ba416dc15d005d6ae9ed08624b80d6d5596999

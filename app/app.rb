@@ -1,6 +1,6 @@
 require 'sinatra/base'
 
-class BookmarkManager < Sinatra::base
+class BookmarkManager < Sinatra::Base
 
   set :views, proc { File.join('app/views') }
 
